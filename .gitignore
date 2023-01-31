@@ -1,2 +1,5 @@
 instacart-market-basket-analysis.zip
-data/
+data/*.csv
+data/*.zip
+__MACOSX/
+datafiles/*.csv
